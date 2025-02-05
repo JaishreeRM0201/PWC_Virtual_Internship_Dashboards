@@ -44,21 +44,19 @@ Task 3: Diversity & Inclusion Analysis
 
 ### Findings
 #### 1. Telecom KPI Analysis:
-   ![Revenue](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Revenue(2011).png)
+   ![KPI Analysis](https://github.com/JaishreeRM0201/PWC_Virtual_Internship_Dashboards/blob/main/KPI%20Analysis.png)
+
+   #### KPI Dashboard:
+   ![KPI Dashboard](https://github.com/JaishreeRM0201/PWC_Virtual_Internship_Dashboards/blob/main/KPI%20Dashboard.png)
 
 #### 2. Customer Retention Analysis:
-   ![Highest Revenue](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Highest%20Revenue.png)
+   ![Customer Retention](https://github.com/JaishreeRM0201/PWC_Virtual_Internship_Dashboards/blob/main/Customer%20Retention%20Dashboard.png)
 
 #### 3. Diversity & Inclusion Analysis:
-   ![Customers](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Top%2010%20Customers.png)
-
+   ![Customers]
 
 
 ### Recommendations
-1.	Revenue trends suggest a predictable seasonal spike during the holiday season, which can be leveraged for next year’s planning.
-2.	Netherlands, Ireland, and Germany  are top-performing countries in both revenue and demand, making them strategic targets for further investment.
-3.	Our top 10 customers drive a significant portion of revenue, and personalized engagement will ensure continued satisfaction and retention.
-4.	Several regions outside of the UK show high product demand, which presents great opportunities for market expansion.
 
 
 
