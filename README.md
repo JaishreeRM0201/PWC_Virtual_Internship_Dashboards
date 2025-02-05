@@ -5,7 +5,6 @@
 - [Tools Used](#tools-used)
 - [Key Objectives](#key-objectives)
 - [Findings](#findings)
-- [Recommendations](#recommendations)
 
 ### Overview
 PWC Switzerland | Power BI Job Simulation on Forage 
@@ -27,20 +26,21 @@ The dataset was provided on Forage by the company
 
 ### Key Objectives
 Task 1: Telecom KPI Analysis 
-   - Prepared a comprehensive list of eight targeted questions—four for each business leader
-   - focusing on quantitative metrics (e.g., revenue growth) and
-   - qualitative insights (e.g., customer sentiment).
+   - Built a Power BI dashboard for telecom KPIs, analyzing customer satisfaction, call trends, and agent performance.
+   - Designed visualizations to track call handling efficiency and improve decision-making.
+   - Provided insights into call volumes, response times, and service quality.
      
 Task 2: Customer Retention Analysis
-   - Analyzed business requirements from CEO and CMO perspectives to identify key insights and objectives.
-   - Applied knowledge of data visualization techniques to match visuals to business needs.
-   - Completed an assessment on selecting appropriate visuals for different scenarios.
+   - Developed a Power BI dashboard for a telecom company's retention team to identify at-risk customers.
+   - Analyzed customer behavior trends to predict churn and improve proactive retention strategies.
+   - Transformed Excel-based analysis into an interactive, self-explanatory visualization for management.
+   - Provided insights to enhance decision-making and reduce customer attrition.
 
 Task 3: Diversity & Inclusion Analysis
-   - Cleaned data by fixing issues like negative quantities and incorrect prices using conditional formulas.
-   - Created visualizations in Power BI to answer key business questions for the CEO and CMO.
-   - Generated time series, country revenue, customer revenue, and demand visuals to support business decisions.
-
+   - Developed a Power BI dashboard for a telecom company to analyze gender balance in executive management.
+   - Tracked key diversity KPIs, including gender representation, promotion rates, hiring trends, and turnover.
+   - Provided data-driven insights to support diversity and inclusion strategies.
+   - Enabled HR teams to identify gaps and measure progress effectively.
 
 ### Findings
 #### 1. Telecom KPI Analysis:
@@ -55,8 +55,6 @@ Task 3: Diversity & Inclusion Analysis
 #### 3. Diversity & Inclusion Analysis:
    ![Customers]
 
-
-### Recommendations
 
 
 
